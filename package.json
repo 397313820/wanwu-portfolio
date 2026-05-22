@@ -1,0 +1,16 @@
+{
+  "name": "files-mentioned-by-the-user-pdf",
+  "version": "1.0.0",
+  "description": "万武个人创意网站",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve . -l 4173"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
